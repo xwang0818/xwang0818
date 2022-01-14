@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xwang0818
-- 👀 I’m interested in Cloud Technologies.
-- 🌱 I’m currently learning Go, TS.
+- 👀 I’m interested in Cloud technologies and computer networking.
+- 🌱 I’m currently learning Argoworkflows.
 - 💞️ I’m looking to collaborate on cutting edge technology projects.
 - 📫 How to reach me: https://www.linkedin.com/in/xiang-le-wang
 
